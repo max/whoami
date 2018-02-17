@@ -1,6 +1,6 @@
 {
   "name": "@mschoening/whoami",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Max Schoening",
   "main": "index.json",
   "repository": "https://github.com/max/whoami",
